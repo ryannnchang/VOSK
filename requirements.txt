@@ -1,0 +1,5 @@
+cffi==1.15.1
+ffmpeg==1.4
+PyAudio==0.2.14
+pycparser==2.21
+vosk==0.3.38
